@@ -22,9 +22,9 @@ Este conjunto de datos es valioso para analistas financieros, auditores, cientí
 En primer lugar decidi realizar este proyecto ya que me parecio muy interesante y considero que estos son datos de suma importancia empresarial,  los obtuve en el sitio "kaggle" .
 Pero en esta oportunidad quise probar como se veria en modo para celulares!, realice y subi un video mostrando el resultado final.
 
-1- En google sheets hice una pre visualizacion para ver que tipos de datos habia.
-2- En visual studio code empece a analizar los datos con python, hice comprobaciones de informacion obtenida,no habia datos nulos ni duplicados, todos los datos estaban limpios ya de origen entonces los guarde ya listos para seguir con POWER BI.
-3- Empece el dashboard en POWER BI con tarjetas con los valores totales mas importantes,con segmentadores por año y empresa y luego fue finalizando con los graficos de barras ,lineas y por ultimo por el grafico de tortas.
+<br>1- En google sheets hice una pre visualizacion para ver que tipos de datos habia.</br>
+<br>2- En visual studio code empece a analizar los datos con python, hice comprobaciones de informacion obtenida,no habia datos nulos ni duplicados, todos los datos estaban limpios ya de origen entonces los guarde ya listos para seguir con POWER BI.</br>
+<br>3- Empece el dashboard en POWER BI con tarjetas con los valores totales mas importantes,con segmentadores por año y empresa y luego fue finalizando con los graficos de barras ,lineas y por ultimo por el grafico de tortas.</br>
 
 **HALLAZGOS :**
 
