@@ -29,17 +29,17 @@ Pero en esta oportunidad quise probar como se veria en modo para celulares!, rea
 **HALLAZGOS :**
 
 <br>-La base de datos Contiene 100 filas y 12 columnas</br>
--Los datos que tenemos son del año 2020 al 2025.
--No hay valores nulos ni duplicados.
--El Número de encargos de auditoría gestionados por la firma es de 278.000
--El promedio de horas trabajadas por semana por los auditores es de 6.025 .
--El número total de incumplimientos regulatorios detectados es de 11.000 en total
--El Número total de auditorías marcadas como de alto riesgo debido a problemas de cumplimiento es de 28.000.
--El número total de casos de fraude descubiertos durante las auditorías es de 5.270.
--El impacto financiero estimado debido a problemas de fraude o cumplimiento (en millones de USD) es de un total de 2 millones.
--Deloitte es la empresa con mas número de auditorías marcadas como de alto riesgo debido a problemas de cumplimiento,alrededor de 8.000,lo podemos visualizar con el grafico de columnas apiladas.
-- El sector de Retail es el de mayor impacto financiero con un poco mas de 600 millones,lo podemos ver con el grafico de aereas como asi tambien podemos observar el total de fraudes detectados por empresa,Deloitte lidera el ranking con casi 1500 fraudes.
--La efectividad en las auditorias en Deloitte es de mas de 2.200 puntos,lo podemos ver en el grafico de lineas,como asi tambien Deloitte es el promedio de horas trabajadas por los auditores mas altas ,alrededor de 2 mil horas.
+<br>-Los datos que tenemos son del año 2020 al 2025.</br>
+<br>-No hay valores nulos ni duplicados.</br>
+<br>-El Número de encargos de auditoría gestionados por la firma es de 278.000</br>
+<br>-El promedio de horas trabajadas por semana por los auditores es de 6.025 .</br>
+<br>-El número total de incumplimientos regulatorios detectados es de 11.000 en total</br>
+<br>-El Número total de auditorías marcadas como de alto riesgo debido a problemas de cumplimiento es de 28.000.</br>
+<br>-El número total de casos de fraude descubiertos durante las auditorías es de 5.270.</br>
+<br>-El impacto financiero estimado debido a problemas de fraude o cumplimiento (en millones de USD) es de un total de 2 millones.</br>
+<br>-Deloitte es la empresa con mas número de auditorías marcadas como de alto riesgo debido a problemas de cumplimiento,alrededor de 8.000,lo podemos visualizar con el grafico de columnas apiladas.</br>
+<br>- El sector de Retail es el de mayor impacto financiero con un poco mas de 600 millones,lo podemos ver con el grafico de aereas como asi tambien podemos observar el total de fraudes detectados por empresa,Deloitte lidera el ranking con casi 1500 fraudes.</br>
+<br>-La efectividad en las auditorias en Deloitte es de mas de 2.200 puntos,lo podemos ver en el grafico de lineas,como asi tambien Deloitte es el promedio de horas trabajadas por los auditores mas altas ,alrededor de 2 mil horas.</br>
 
 **CONCLUSIONES:**
 
