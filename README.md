@@ -42,7 +42,7 @@ Pero en esta oportunidad quise probar como se veria en modo para celulares!, rea
 -La efectividad en las auditorias en Deloitte es de mas de 2.200 puntos,lo podemos ver en el grafico de lineas,como asi tambien Deloitte es el promedio de horas trabajadas por los auditores mas altas ,alrededor de 2 mil horas.
 
 **CONCLUSIONES:**
-A continuación, te presento algunas conclusiones basadas en los datos proporcionados:
+
 
 1. **Cantidad de Auditorías y Gestión de Encargos**:
    - La firma ha gestionado un total de 278,000 encargos de auditoría, lo que indica una gran actividad en términos de auditorías realizadas.
