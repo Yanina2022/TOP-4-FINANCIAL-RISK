@@ -28,7 +28,7 @@ Pero en esta oportunidad quise probar como se veria en modo para celulares!, rea
 
 **HALLAZGOS :**
 
--La base de datos Contiene 100 filas y 12 columnas
+<br>-La base de datos Contiene 100 filas y 12 columnas</br>
 -Los datos que tenemos son del año 2020 al 2025.
 -No hay valores nulos ni duplicados.
 -El Número de encargos de auditoría gestionados por la firma es de 278.000
